@@ -12,6 +12,11 @@
 >
 > 不保证所有功能可用，本项目仅是反编译+人工还原必然有东西缺失了，如果你愿意补充欢迎发送PR
 
+* Assets
+可以去https://github.com/rongtang2026/PE-QuickJs-Engine/releases下载apk解包获得
+因为太大了我懒得传了（380MB）
+
+
 # 这是什么东西？
 前情提要：
 
