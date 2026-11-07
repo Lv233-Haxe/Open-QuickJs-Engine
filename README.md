@@ -1,7 +1,15 @@
 # 本项目有关
-这是一个使用 人工反编译APK 溜溜梅还原Haxe源代码 并且做到可编译与最大化等效还原的一个逆向项目
+ * 这是一个使用 人工反编译APK 溜溜梅还原Haxe源代码 并且做到可编译与最大化等效还原的一个逆向项目
 
-使用以下工具：jadx apktool 儿子网络5.5 旮旯木5.3闪光
+ * 使用以下工具：jadx apktool 儿子网络5.5 旮旯木5.3闪光
+
+ * 本项目以最大化等效还原为目标，因为从一开始反编译出完整的原本源代码就是不可能的事情，并确保了代码的可读性
+
+ * 本项目已经在Windows平台确认可通过编译并且正常游玩
+
+> 因原PsychEngine不包含NOTICE文件本仓库也不包含
+> 
+> 本项目使用Apache 2.0协议开源
 
 # How2use
 
@@ -12,12 +20,16 @@
 >
 > 不保证所有功能可用，本项目仅是反编译+人工还原必然有东西缺失了，如果你愿意补充欢迎发送PR
 
+* 可用的平台
+> Windows
+> Android（未测试）
+> IOS（未测试，可能需要手动再次适配）
+
 * Assets
 
-可以去https://github.com/rongtang2026/PE-QuickJs-Engine/releases下载apk解包获得
+可以去 https://github.com/rongtang2026/PE-QuickJs-Engine/releases 下载apk解包获得
 
 因为太大了我懒得传了（380MB）
-
 
 # 这是什么东西？
 前情提要：
